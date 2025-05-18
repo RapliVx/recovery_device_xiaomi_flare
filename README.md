@@ -1,4 +1,4 @@
-# TWRP Device Tree For Redmi 14C/Poco C75/Redmi A3 Pro (pond/lake)
+# TWRP Device Tree For Redmi Pad SE 8.7 (flare)
 
 ```
 #
