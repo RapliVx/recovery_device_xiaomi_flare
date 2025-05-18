@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_pond.mk
+    $(LOCAL_DIR)/twrp_flare.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_pond-user \
-    twrp_pond-userdebug \
-    twrp_pond-eng
+    omni_flare-user \
+    omni_flare-userdebug \
+    omni_flare-eng
