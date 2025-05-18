@@ -54,18 +54,18 @@ void vendor_load_properties() {
     const std::string sku = GetProperty("ro.boot.product.hardware.sku", "");
 
     if (sku == "c3na") {
-        model_property_override("pond", "Redmi 14C");
+        model_property_override("flare", "Redmi Pad SE 8.7");
     } else if (sku == "c3ncn") {
-        model_property_override("pond", "Redmi 14C");
+        model_property_override("flare", "Redmi Pad SE 8.7");
     } else if (sku == "c3nl") {
-        model_property_override("pond", "Redmi 14C");
+        model_property_override("flare", "Redmi Pad SE 8.7");
     } else if (sku == "c3nn") {
-        model_property_override("lake", "Redmi 14C");
+        model_property_override("flare", "Redmi Pad SE 8.7");
     } else if (sku == "c3npg") {
-        model_property_override("lake", "Poco C75");
+        model_property_override("flare", "Redmi Pad SE 8.7");
     } else if (sku == "c3yn") {
-        model_property_override("pond", "Redmi A3 Pro");
+        model_property_override("flare", "Redmi Pad SE 8.7");
     } else {
-        model_property_override("lake", "Redmi 14C");
+        model_property_override("flare", "Redmi Pad SE 8.7");
     }
 }
