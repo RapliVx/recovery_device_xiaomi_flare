@@ -68,11 +68,6 @@
 /dev/mobicore-user        0666   system     system
 /dev/t-base-tui           0666   system     system
 
-#import uevent.fingerprint.rc
-/dev/spidev1.0 0660 system system
-/dev/spidev0.0 0660 system system
-/dev/silead_fp 0660 system system
-
 #MDP
 /dev/mt-mdp               0660   system     media
 /dev/mtk_mdp              0660   system     system
