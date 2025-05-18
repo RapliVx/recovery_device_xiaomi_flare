@@ -9,6 +9,6 @@ cc_library_static {
     static_libs: [
         "libbase",
     ],
-    srcs: ["init_pond.cpp"],
+    srcs: ["init_flare.cpp"],
     recovery_available: true,
 }
